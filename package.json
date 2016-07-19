@@ -1,0 +1,19 @@
+{
+  "name": "lym",
+  "version": "1.0.0",
+  "description": "Path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equipointer/lym.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/equipointer/lym/issues"
+  },
+  "homepage": "https://github.com/equipointer/lym#readme"
+}
